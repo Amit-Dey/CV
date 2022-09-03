@@ -1,0 +1,19 @@
+body {
+    background-color: #DFF4F3;
+}
+
+img {
+    border-radius: 50%;
+}
+
+hr {
+    border: 0.5rem;
+    border-style: hidden hidden dotted;
+    width: 5%;
+    color: #D1D1D1;
+
+}
+
+h1,h3{
+    color: #0245A3;
+}
